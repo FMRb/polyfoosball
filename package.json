@@ -1,0 +1,19 @@
+{
+  "name": "polyfoosball",
+  "version": "1.0.0",
+  "description": "Web-progressive app for showing the score of foosball table",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/FMRb/polyfoosball.git"
+  },
+  "keywords": [
+    "polymer",
+    "foosball"
+  ],
+  "author": "Felix Rubio",
+  "license": "MIT"
+}
